@@ -1,3 +1,13 @@
+:root{
+    --primary-main:#00695C;
+    --primary-dark:#004940;
+    --primary-light:#33877c;
+    --secondary-main:#e4d5b7;
+    --secondary-dark: #827968;
+    --secondary-light: #ebeae7;
+    
+    }
+
 *{
     margin: 0;
     padding: 0;
